@@ -1,0 +1,9 @@
+{
+  "name": "newtype",
+  "version": "0.0.1",
+  "description": "Typescript branded type library",
+  "main": "index.js",
+  "repository": "git@github.com:code-kennel/newtype.git",
+  "author": "Campbell Alden <campbellsalden@gmail.com>",
+  "license": "MIT"
+}
